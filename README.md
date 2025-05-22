@@ -1,2 +1,2 @@
-# TTMTN
-This is the official implementation of the paper titled "A Temporal Transformer-based Multi-Task Network for EEG Classification in RSVP Tasks"
+# CAST_CSSL
+This is the official implementation of the paper titled "CAST-CSSL: Channel-Adaptive Spatiotemporal Transformer with Contrastive Self-Supervision for Robust RSVP-EEG Classification"

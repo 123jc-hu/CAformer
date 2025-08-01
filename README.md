@@ -1,9 +1,9 @@
-# CASTformer
+# CAformer
 
 This is the **official implementation** of the paper titled:
 
 
-**"CASTformer: A Channel-Adaptive Spatiotemporal Transformer with Contrastive Learning for Robust RSVP-EEG Target Detection"**
+**"CAFormer: Channel-Adaptive Transformer for Robust RSVP-EEG Target Detection"**
 
 ## Status
 

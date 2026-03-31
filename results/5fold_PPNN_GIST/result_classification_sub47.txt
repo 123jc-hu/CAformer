@@ -1,0 +1,20 @@
+5fold_PPNN_GIST
+sub47 AUC:0.9699 BA:0.6830 conf_matrix:[[111   1]
+ [  5   3]] TPR:0.3750 TNR:0.9911
+
+5fold_PPNN_GIST
+sub47 AUC:0.9364 BA:0.8036 conf_matrix:[[110   2]
+ [  3   5]] TPR:0.6250 TNR:0.9821
+
+5fold_PPNN_GIST
+sub47 AUC:0.9900 BA:0.8750 conf_matrix:[[112   0]
+ [  2   6]] TPR:0.7500 TNR:1.0000
+
+5fold_PPNN_GIST
+sub47 AUC:0.9866 BA:0.8125 conf_matrix:[[112   0]
+ [  3   5]] TPR:0.6250 TNR:1.0000
+
+5fold_PPNN_GIST
+sub47 AUC:0.9844 BA:0.8125 conf_matrix:[[112   0]
+ [  3   5]] TPR:0.6250 TNR:1.0000
+

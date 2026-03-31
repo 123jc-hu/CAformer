@@ -1,0 +1,8 @@
+5fold_DeepConvNet_THU  
+AUC:0.9507BA:0.8946confusion_matrix:[[3524  296]
+ [   8   52]]
+
+5fold_DeepConvNet_THU  
+AUC:0.9332BA:0.8594confusion_matrix:[[3319  501]
+ [   9   51]]
+

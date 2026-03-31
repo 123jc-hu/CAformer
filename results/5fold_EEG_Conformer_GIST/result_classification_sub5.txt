@@ -1,0 +1,20 @@
+5fold_EEG_Conformer_GIST
+sub5 AUC:0.9085 BA:0.7188 conf_matrix:[[105   7]
+ [  4   4]] TPR:0.5000 TNR:0.9375
+
+5fold_EEG_Conformer_GIST
+sub5 AUC:0.9676 BA:0.9688 conf_matrix:[[105   7]
+ [  0   8]] TPR:1.0000 TNR:0.9375
+
+5fold_EEG_Conformer_GIST
+sub5 AUC:0.9464 BA:0.7857 conf_matrix:[[106   6]
+ [  3   5]] TPR:0.6250 TNR:0.9464
+
+5fold_EEG_Conformer_GIST
+sub5 AUC:0.9129 BA:0.7991 conf_matrix:[[109   3]
+ [  3   5]] TPR:0.6250 TNR:0.9732
+
+5fold_EEG_Conformer_GIST
+sub5 AUC:0.9766 BA:0.9554 conf_matrix:[[102  10]
+ [  0   8]] TPR:1.0000 TNR:0.9107
+

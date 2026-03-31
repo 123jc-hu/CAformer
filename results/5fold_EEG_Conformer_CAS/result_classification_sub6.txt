@@ -1,0 +1,20 @@
+5fold_EEG_Conformer_CAS
+sub6 AUC:0.9350 BA:0.8672 conf_matrix:[[2286  402]
+ [  13   99]] TPR:0.8839 TNR:0.8504
+
+5fold_EEG_Conformer_CAS
+sub6 AUC:0.9400 BA:0.8730 conf_matrix:[[2317  371]
+ [  13   99]] TPR:0.8839 TNR:0.8620
+
+5fold_EEG_Conformer_CAS
+sub6 AUC:0.9375 BA:0.8650 conf_matrix:[[2274  414]
+ [  13   99]] TPR:0.8839 TNR:0.8460
+
+5fold_EEG_Conformer_CAS
+sub6 AUC:0.9389 BA:0.8674 conf_matrix:[[2335  353]
+ [  15   97]] TPR:0.8661 TNR:0.8687
+
+5fold_EEG_Conformer_CAS
+sub6 AUC:0.9379 BA:0.8854 conf_matrix:[[2336  352]
+ [  11  101]] TPR:0.9018 TNR:0.8690
+

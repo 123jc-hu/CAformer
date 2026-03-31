@@ -1,0 +1,17 @@
+5fold_PatchTST_THU  
+AUC:0.8556
+
+5fold_PatchTST_THU  
+AUC:0.8382
+
+5fold_PatchTST_THU  
+AUC:0.8671
+
+5fold_PatchTST_THU  
+AUC:0.8521
+
+5fold_PatchTST_THU  
+AUC:0.8607
+
+5fold_PatchTST_THU
+5fold mean AUC: 0.8547 

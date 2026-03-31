@@ -1,0 +1,22 @@
+5fold_DeepConvNet_THU  
+AUC:0.7985BA:0.7075confusion_matrix:[[3335  470]
+ [  30   35]]
+
+5fold_DeepConvNet_THU  
+AUC:0.8108BA:0.7432confusion_matrix:[[3197  608]
+ [  23   42]]
+
+5fold_DeepConvNet_THU  
+AUC:0.7475BA:0.6615confusion_matrix:[[2634 1171]
+ [  24   41]]
+
+5fold_DeepConvNet_THU  
+AUC:0.7214BA:0.6176confusion_matrix:[[3061  744]
+ [  37   28]]
+
+5fold_DeepConvNet_THU  
+AUC:0.7998BA:0.6745confusion_matrix:[[3494  311]
+ [  37   28]]
+
+5fold_DeepConvNet_THU
+5fold mean AUC: 0.7756 mean BA: 0.6809 mean F1-score: 0.102

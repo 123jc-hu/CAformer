@@ -1,0 +1,20 @@
+5fold_EEGInception_GIST
+sub52 AUC:0.8449 BA:0.7679 conf_matrix:[[88 24]
+ [ 2  6]] TPR:0.7500 TNR:0.7857
+
+5fold_EEGInception_GIST
+sub52 AUC:0.8705 BA:0.8036 conf_matrix:[[96 16]
+ [ 2  6]] TPR:0.7500 TNR:0.8571
+
+5fold_EEGInception_GIST
+sub52 AUC:0.8683 BA:0.8393 conf_matrix:[[90 22]
+ [ 1  7]] TPR:0.8750 TNR:0.8036
+
+5fold_EEGInception_GIST
+sub52 AUC:0.8594 BA:0.8438 conf_matrix:[[91 21]
+ [ 1  7]] TPR:0.8750 TNR:0.8125
+
+5fold_EEGInception_GIST
+sub52 AUC:0.8627 BA:0.8438 conf_matrix:[[91 21]
+ [ 1  7]] TPR:0.8750 TNR:0.8125
+

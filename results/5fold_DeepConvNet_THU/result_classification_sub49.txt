@@ -1,0 +1,20 @@
+5fold_DeepConvNet_THU
+sub49 AUC:0.9515 BA:0.7803 conf_matrix:[[4576 3144]
+ [   9  271]] TPR:0.9679 TNR:0.5927
+
+5fold_DeepConvNet_THU
+sub49 AUC:0.9546 BA:0.7988 conf_matrix:[[4861 2859]
+ [   9  271]] TPR:0.9679 TNR:0.6297
+
+5fold_DeepConvNet_THU
+sub49 AUC:0.9420 BA:0.7680 conf_matrix:[[4276 3444]
+ [   5  275]] TPR:0.9821 TNR:0.5539
+
+5fold_DeepConvNet_THU
+sub49 AUC:0.9355 BA:0.7640 conf_matrix:[[4296 3424]
+ [   8  272]] TPR:0.9714 TNR:0.5565
+
+5fold_DeepConvNet_THU
+sub49 AUC:0.9296 BA:0.7551 conf_matrix:[[4215 3505]
+ [  10  270]] TPR:0.9643 TNR:0.5460
+

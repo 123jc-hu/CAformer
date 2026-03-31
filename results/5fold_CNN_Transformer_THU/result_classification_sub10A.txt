@@ -1,0 +1,22 @@
+5fold_CNN_Transformer_THU  
+AUC:0.9236BA:0.7777confusion_matrix:[[2406 1399]
+ [   5   60]]
+
+5fold_CNN_Transformer_THU  
+AUC:0.94BA:0.8366confusion_matrix:[[2913  892]
+ [   6   59]]
+
+5fold_CNN_Transformer_THU  
+AUC:0.9542BA:0.8625confusion_matrix:[[2934  871]
+ [   3   62]]
+
+5fold_CNN_Transformer_THU  
+AUC:0.9688BA:0.8805confusion_matrix:[[3013  792]
+ [   2   63]]
+
+5fold_CNN_Transformer_THU  
+AUC:0.9541BA:0.8473confusion_matrix:[[2877  928]
+ [   4   61]]
+
+5fold_CNN_Transformer_THU
+5fold mean AUC: 0.9481 mean BA: 0.8409 mean F1-score: 0.1143

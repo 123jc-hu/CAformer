@@ -1,0 +1,20 @@
+5fold_EEGNet_GIST
+sub49 AUC:0.7221 BA:0.6027 conf_matrix:[[79 33]
+ [ 4  4]] TPR:0.5000 TNR:0.7054
+
+5fold_EEGNet_GIST
+sub49 AUC:0.8337 BA:0.7188 conf_matrix:[[91 21]
+ [ 3  5]] TPR:0.6250 TNR:0.8125
+
+5fold_EEGNet_GIST
+sub49 AUC:0.7511 BA:0.6384 conf_matrix:[[87 25]
+ [ 4  4]] TPR:0.5000 TNR:0.7768
+
+5fold_EEGNet_GIST
+sub49 AUC:0.8170 BA:0.6830 conf_matrix:[[83 29]
+ [ 3  5]] TPR:0.6250 TNR:0.7411
+
+5fold_EEGNet_GIST
+sub49 AUC:0.8125 BA:0.6071 conf_matrix:[[94 18]
+ [ 5  3]] TPR:0.3750 TNR:0.8393
+

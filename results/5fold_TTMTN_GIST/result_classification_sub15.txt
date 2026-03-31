@@ -1,0 +1,20 @@
+5fold_TTMTN_GIST
+sub15 AUC:1.0000 BA:0.9866 conf_matrix:[[109   3]
+ [  0   8]] TPR:1.0000 TNR:0.9732
+
+5fold_TTMTN_GIST
+sub15 AUC:0.9944 BA:0.9866 conf_matrix:[[109   3]
+ [  0   8]] TPR:1.0000 TNR:0.9732
+
+5fold_TTMTN_GIST
+sub15 AUC:1.0000 BA:0.9866 conf_matrix:[[109   3]
+ [  0   8]] TPR:1.0000 TNR:0.9732
+
+5fold_TTMTN_GIST
+sub15 AUC:1.0000 BA:0.9866 conf_matrix:[[109   3]
+ [  0   8]] TPR:1.0000 TNR:0.9732
+
+5fold_TTMTN_GIST
+sub15 AUC:1.0000 BA:0.9866 conf_matrix:[[109   3]
+ [  0   8]] TPR:1.0000 TNR:0.9732
+

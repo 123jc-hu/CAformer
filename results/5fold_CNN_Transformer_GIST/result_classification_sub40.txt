@@ -1,0 +1,20 @@
+5fold_CNN_Transformer_GIST
+sub40 AUC:0.9263 BA:0.8304 conf_matrix:[[102  10]
+ [  2   6]] TPR:0.7500 TNR:0.9107
+
+5fold_CNN_Transformer_GIST
+sub40 AUC:0.9219 BA:0.8348 conf_matrix:[[103   9]
+ [  2   6]] TPR:0.7500 TNR:0.9196
+
+5fold_CNN_Transformer_GIST
+sub40 AUC:0.9252 BA:0.8884 conf_matrix:[[101  11]
+ [  1   7]] TPR:0.8750 TNR:0.9018
+
+5fold_CNN_Transformer_GIST
+sub40 AUC:0.9431 BA:0.8393 conf_matrix:[[104   8]
+ [  2   6]] TPR:0.7500 TNR:0.9286
+
+5fold_CNN_Transformer_GIST
+sub40 AUC:0.9208 BA:0.8348 conf_matrix:[[103   9]
+ [  2   6]] TPR:0.7500 TNR:0.9196
+

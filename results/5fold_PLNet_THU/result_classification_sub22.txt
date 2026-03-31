@@ -1,0 +1,20 @@
+5fold_PLNet_THU
+sub22 AUC:0.9622 BA:0.9172 conf_matrix:[[7101  779]
+ [   8  112]] TPR:0.9333 TNR:0.9011
+
+5fold_PLNet_THU
+sub22 AUC:0.9510 BA:0.8947 conf_matrix:[[7008  872]
+ [  12  108]] TPR:0.9000 TNR:0.8893
+
+5fold_PLNet_THU
+sub22 AUC:0.9622 BA:0.9174 conf_matrix:[[7103  777]
+ [   8  112]] TPR:0.9333 TNR:0.9014
+
+5fold_PLNet_THU
+sub22 AUC:0.9547 BA:0.9054 conf_matrix:[[7045  835]
+ [  10  110]] TPR:0.9167 TNR:0.8940
+
+5fold_PLNet_THU
+sub22 AUC:0.9520 BA:0.8865 conf_matrix:[[6879 1001]
+ [  12  108]] TPR:0.9000 TNR:0.8730
+

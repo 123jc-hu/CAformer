@@ -1,0 +1,22 @@
+5fold_EEGNet_THU  
+AUC:0.9563BA:0.8561confusion_matrix:[[2944  861]
+ [   4   61]]
+
+5fold_EEGNet_THU  
+AUC:0.9576BA:0.8872confusion_matrix:[[3181  624]
+ [   4   61]]
+
+5fold_EEGNet_THU  
+AUC:0.9757BA:0.8947confusion_matrix:[[3296  509]
+ [   5   60]]
+
+5fold_EEGNet_THU  
+AUC:0.9735BA:0.8998confusion_matrix:[[3218  587]
+ [   3   62]]
+
+5fold_EEGNet_THU  
+AUC:0.9661BA:0.8767confusion_matrix:[[3218  587]
+ [   6   59]]
+
+5fold_EEGNet_THU
+5fold mean AUC: 0.9658 mean BA: 0.8829 mean F1-score: 0.1631

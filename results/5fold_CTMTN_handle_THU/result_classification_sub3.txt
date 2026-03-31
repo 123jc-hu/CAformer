@@ -1,0 +1,22 @@
+5fold_CTMTN_handle_THU  
+AUC:0.9661BA:0.9066confusion_matrix:[[7263  609]
+ [  14  114]]TPR:0.890625TNR:0.9226371951219512
+
+5fold_CTMTN_handle_THU  
+AUC:0.9624BA:0.9confusion_matrix:[[7097  775]
+ [  13  115]]TPR:0.8984375TNR:0.9015497967479674
+
+5fold_CTMTN_handle_THU  
+AUC:0.9556BA:0.8837confusion_matrix:[[7332  540]
+ [  21  107]]TPR:0.8359375TNR:0.9314024390243902
+
+5fold_CTMTN_handle_THU  
+AUC:0.9598BA:0.8923confusion_matrix:[[7406  466]
+ [  20  108]]TPR:0.84375TNR:0.9408028455284553
+
+5fold_CTMTN_handle_THU  
+AUC:0.9623BA:0.8943confusion_matrix:[[7377  495]
+ [  19  109]]TPR:0.8515625TNR:0.9371189024390244
+
+5fold_CTMTN_handle_THU
+5fold mean AUC: 0.9612 mean BA: 0.8954 mean F1-score: 0.2751| mean TPR: 0.8641| mean TNR: 0.9267

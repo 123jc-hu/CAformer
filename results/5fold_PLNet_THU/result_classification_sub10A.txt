@@ -1,0 +1,22 @@
+5fold_PLNet_THU  
+AUC:0.9771BA:0.9246confusion_matrix:[[3407  398]
+ [   3   62]]
+
+5fold_PLNet_THU  
+AUC:0.986BA:0.9364confusion_matrix:[[3555  250]
+ [   4   61]]
+
+5fold_PLNet_THU  
+AUC:0.9769BA:0.9233confusion_matrix:[[3397  408]
+ [   3   62]]
+
+5fold_PLNet_THU  
+AUC:0.9686BA:0.912confusion_matrix:[[3428  377]
+ [   5   60]]
+
+5fold_PLNet_THU  
+AUC:0.9759BA:0.874confusion_matrix:[[3080  725]
+ [   4   61]]
+
+5fold_PLNet_THU
+5fold mean AUC: 0.9769 mean BA: 0.9141 mean F1-score: 0.235

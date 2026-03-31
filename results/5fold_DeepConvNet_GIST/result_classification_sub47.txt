@@ -1,0 +1,20 @@
+5fold_DeepConvNet_GIST
+sub47 AUC:0.9531 BA:0.8482 conf_matrix:[[78 34]
+ [ 0  8]] TPR:1.0000 TNR:0.6964
+
+5fold_DeepConvNet_GIST
+sub47 AUC:0.9777 BA:0.8795 conf_matrix:[[85 27]
+ [ 0  8]] TPR:1.0000 TNR:0.7589
+
+5fold_DeepConvNet_GIST
+sub47 AUC:0.9676 BA:0.8705 conf_matrix:[[83 29]
+ [ 0  8]] TPR:1.0000 TNR:0.7411
+
+5fold_DeepConvNet_GIST
+sub47 AUC:0.9777 BA:0.8795 conf_matrix:[[85 27]
+ [ 0  8]] TPR:1.0000 TNR:0.7589
+
+5fold_DeepConvNet_GIST
+sub47 AUC:0.9732 BA:0.8705 conf_matrix:[[83 29]
+ [ 0  8]] TPR:1.0000 TNR:0.7411
+

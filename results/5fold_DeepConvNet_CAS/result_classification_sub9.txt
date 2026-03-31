@@ -1,0 +1,20 @@
+5fold_DeepConvNet_CAS
+sub9 AUC:0.9337 BA:0.7842 conf_matrix:[[1720  968]
+ [   8  104]] TPR:0.9286 TNR:0.6399
+
+5fold_DeepConvNet_CAS
+sub9 AUC:0.9364 BA:0.7961 conf_matrix:[[1712  976]
+ [   5  107]] TPR:0.9554 TNR:0.6369
+
+5fold_DeepConvNet_CAS
+sub9 AUC:0.9319 BA:0.7801 conf_matrix:[[1674 1014]
+ [   7  105]] TPR:0.9375 TNR:0.6228
+
+5fold_DeepConvNet_CAS
+sub9 AUC:0.9245 BA:0.7727 conf_matrix:[[1682 1006]
+ [   9  103]] TPR:0.9196 TNR:0.6257
+
+5fold_DeepConvNet_CAS
+sub9 AUC:0.9376 BA:0.7881 conf_matrix:[[1669 1019]
+ [   5  107]] TPR:0.9554 TNR:0.6209
+

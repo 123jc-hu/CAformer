@@ -1,0 +1,20 @@
+5fold_PPNN_CAS
+sub14 AUC:0.9287 BA:0.8504 conf_matrix:[[2316  372]
+ [  18   94]] TPR:0.8393 TNR:0.8616
+
+5fold_PPNN_CAS
+sub14 AUC:0.9102 BA:0.8222 conf_matrix:[[2212  476]
+ [  20   92]] TPR:0.8214 TNR:0.8229
+
+5fold_PPNN_CAS
+sub14 AUC:0.9098 BA:0.8266 conf_matrix:[[2308  380]
+ [  23   89]] TPR:0.7946 TNR:0.8586
+
+5fold_PPNN_CAS
+sub14 AUC:0.9248 BA:0.8443 conf_matrix:[[2307  381]
+ [  19   93]] TPR:0.8304 TNR:0.8583
+
+5fold_PPNN_CAS
+sub14 AUC:0.9295 BA:0.8605 conf_matrix:[[2298  390]
+ [  15   97]] TPR:0.8661 TNR:0.8549
+

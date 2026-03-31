@@ -1,0 +1,20 @@
+5fold_EEGInception_THU
+sub11 AUC:0.8183 BA:0.7056 conf_matrix:[[4377 3492]
+ [  19  112]] TPR:0.8550 TNR:0.5562
+
+5fold_EEGInception_THU
+sub11 AUC:0.7895 BA:0.6699 conf_matrix:[[4116 3753]
+ [  24  107]] TPR:0.8168 TNR:0.5231
+
+5fold_EEGInception_THU
+sub11 AUC:0.8087 BA:0.6917 conf_matrix:[[4218 3651]
+ [  20  111]] TPR:0.8473 TNR:0.5360
+
+5fold_EEGInception_THU
+sub11 AUC:0.8730 BA:0.7830 conf_matrix:[[5656 2213]
+ [  20  111]] TPR:0.8473 TNR:0.7188
+
+5fold_EEGInception_THU
+sub11 AUC:0.8496 BA:0.7203 conf_matrix:[[4608 3261]
+ [  19  112]] TPR:0.8550 TNR:0.5856
+

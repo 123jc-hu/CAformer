@@ -1,0 +1,22 @@
+5fold_CTMTN_GIST  
+AUC:0.9911BA:0.9643confusion_matrix:[[104   8]
+ [  0   8]]TPR:1.0TNR:0.9285714285714286
+
+5fold_CTMTN_GIST  
+AUC:0.9866BA:0.9062confusion_matrix:[[105   7]
+ [  1   7]]TPR:0.875TNR:0.9375
+
+5fold_CTMTN_GIST  
+AUC:0.9866BA:0.9062confusion_matrix:[[105   7]
+ [  1   7]]TPR:0.875TNR:0.9375
+
+5fold_CTMTN_GIST  
+AUC:0.9922BA:0.9688confusion_matrix:[[105   7]
+ [  0   8]]TPR:1.0TNR:0.9375
+
+5fold_CTMTN_GIST  
+AUC:0.9855BA:0.9062confusion_matrix:[[105   7]
+ [  1   7]]TPR:0.875TNR:0.9375
+
+5fold_CTMTN_GIST
+5fold mean AUC: 0.9884 mean BA: 0.9303 mean F1-score: 0.6543| mean TPR: 0.9250| mean TNR: 0.9357

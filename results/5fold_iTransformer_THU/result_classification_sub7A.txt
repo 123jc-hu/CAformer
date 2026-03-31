@@ -1,0 +1,17 @@
+5fold_iTransformer_THU  
+AUC:0.9134
+
+5fold_iTransformer_THU  
+AUC:0.9191
+
+5fold_iTransformer_THU  
+AUC:0.8772
+
+5fold_iTransformer_THU  
+AUC:0.9203
+
+5fold_iTransformer_THU  
+AUC:0.9174
+
+5fold_iTransformer_THU
+5fold mean AUC: 0.9095 

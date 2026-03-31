@@ -1,0 +1,20 @@
+5fold_MTCN_GIST
+sub48 AUC:0.9330 BA:0.6875 conf_matrix:[[112   0]
+ [  5   3]] TPR:0.3750 TNR:1.0000
+
+5fold_MTCN_GIST
+sub48 AUC:0.9152 BA:0.7455 conf_matrix:[[111   1]
+ [  4   4]] TPR:0.5000 TNR:0.9911
+
+5fold_MTCN_GIST
+sub48 AUC:0.9141 BA:0.7500 conf_matrix:[[112   0]
+ [  4   4]] TPR:0.5000 TNR:1.0000
+
+5fold_MTCN_GIST
+sub48 AUC:0.9252 BA:0.6875 conf_matrix:[[112   0]
+ [  5   3]] TPR:0.3750 TNR:1.0000
+
+5fold_MTCN_GIST
+sub48 AUC:0.9542 BA:0.9152 conf_matrix:[[107   5]
+ [  1   7]] TPR:0.8750 TNR:0.9554
+

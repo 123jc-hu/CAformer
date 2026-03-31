@@ -1,0 +1,20 @@
+5fold_PPNN_THU
+sub36 AUC:0.9706 BA:0.9069 conf_matrix:[[7109  777]
+ [  10  104]] TPR:0.9123 TNR:0.9015
+
+5fold_PPNN_THU
+sub36 AUC:0.9536 BA:0.8780 conf_matrix:[[6931  955]
+ [  14  100]] TPR:0.8772 TNR:0.8789
+
+5fold_PPNN_THU
+sub36 AUC:0.9340 BA:0.8488 conf_matrix:[[6885 1001]
+ [  20   94]] TPR:0.8246 TNR:0.8731
+
+5fold_PPNN_THU
+sub36 AUC:0.9624 BA:0.8934 conf_matrix:[[6966  920]
+ [  11  103]] TPR:0.9035 TNR:0.8833
+
+5fold_PPNN_THU
+sub36 AUC:0.9573 BA:0.8926 conf_matrix:[[6884 1002]
+ [  10  104]] TPR:0.9123 TNR:0.8729
+

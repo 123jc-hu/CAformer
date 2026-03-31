@@ -1,0 +1,43 @@
+# Python cache and virtual envs
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local temp/mistakes
+%TEMP%/
+
+# Large experiment assets
+Dataset/
+checkpoints/
+
+# Runtime logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Generated paper figures at repo root
+/spatial_saliency_map.eps
+/spatial_saliency_map.pdf
+/spatial_saliency_map.png
+/temporal_saliency_map.eps
+/temporal_saliency_map.pdf
+/temporal_saliency_map.png
+/three_dataset_spatial_saliency_map.png
+/total_spatial_saliency_map.png
+/test.png
+/ablation_study_results.pdf
+
+# Optional local scratch files
+main_copy.py

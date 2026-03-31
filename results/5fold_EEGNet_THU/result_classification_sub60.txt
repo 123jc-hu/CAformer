@@ -1,0 +1,20 @@
+5fold_EEGNet_THU
+sub60 AUC:0.9195 BA:0.7841 conf_matrix:[[5316 2562]
+ [  13  109]] TPR:0.8934 TNR:0.6748
+
+5fold_EEGNet_THU
+sub60 AUC:0.9159 BA:0.8088 conf_matrix:[[5576 2302]
+ [  11  111]] TPR:0.9098 TNR:0.7078
+
+5fold_EEGNet_THU
+sub60 AUC:0.9268 BA:0.8115 conf_matrix:[[5424 2454]
+ [   8  114]] TPR:0.9344 TNR:0.6885
+
+5fold_EEGNet_THU
+sub60 AUC:0.9145 BA:0.7847 conf_matrix:[[5132 2746]
+ [  10  112]] TPR:0.9180 TNR:0.6514
+
+5fold_EEGNet_THU
+sub60 AUC:0.9192 BA:0.8085 conf_matrix:[[5506 2372]
+ [  10  112]] TPR:0.9180 TNR:0.6989
+

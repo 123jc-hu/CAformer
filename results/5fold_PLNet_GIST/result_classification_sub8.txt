@@ -1,0 +1,20 @@
+5fold_PLNet_GIST
+sub8 AUC:0.8917 BA:0.8125 conf_matrix:[[84 28]
+ [ 1  7]] TPR:0.8750 TNR:0.7500
+
+5fold_PLNet_GIST
+sub8 AUC:0.9252 BA:0.8304 conf_matrix:[[88 24]
+ [ 1  7]] TPR:0.8750 TNR:0.7857
+
+5fold_PLNet_GIST
+sub8 AUC:0.9129 BA:0.8259 conf_matrix:[[87 25]
+ [ 1  7]] TPR:0.8750 TNR:0.7768
+
+5fold_PLNet_GIST
+sub8 AUC:0.9096 BA:0.8438 conf_matrix:[[91 21]
+ [ 1  7]] TPR:0.8750 TNR:0.8125
+
+5fold_PLNet_GIST
+sub8 AUC:0.7868 BA:0.7589 conf_matrix:[[100  12]
+ [  3   5]] TPR:0.6250 TNR:0.8929
+

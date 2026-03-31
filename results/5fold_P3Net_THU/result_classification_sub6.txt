@@ -1,0 +1,22 @@
+5fold_P3Net_THU  
+AUC:0.9337BA:0.8466confusion_matrix:[[7302  314]
+ [  34   94]]
+
+5fold_P3Net_THU  
+AUC:0.9248BA:0.8395confusion_matrix:[[6659  957]
+ [  25  103]]
+
+5fold_P3Net_THU  
+AUC:0.9006BA:0.8144confusion_matrix:[[6514 1102]
+ [  29   99]]
+
+5fold_P3Net_THU  
+AUC:0.9303BA:0.8195confusion_matrix:[[7425  191]
+ [  43   85]]
+
+5fold_P3Net_THU  
+AUC:0.9291BA:0.8476confusion_matrix:[[7079  537]
+ [  30   98]]
+
+5fold_P3Net_THU
+5fold mean AUC: 0.9237 mean BA: 0.8335 mean F1-score: 0.2702

@@ -1,0 +1,3 @@
+5fold_PatchTST_THU  
+AUC:0.6114
+

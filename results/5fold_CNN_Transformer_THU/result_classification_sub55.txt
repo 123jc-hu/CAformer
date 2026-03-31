@@ -1,0 +1,20 @@
+5fold_CNN_Transformer_THU
+sub55 AUC:0.9512 BA:0.8950 conf_matrix:[[7112  764]
+ [  14  110]] TPR:0.8871 TNR:0.9030
+
+5fold_CNN_Transformer_THU
+sub55 AUC:0.9545 BA:0.9008 conf_matrix:[[7202  674]
+ [  14  110]] TPR:0.8871 TNR:0.9144
+
+5fold_CNN_Transformer_THU
+sub55 AUC:0.9509 BA:0.9081 conf_matrix:[[7254  622]
+ [  13  111]] TPR:0.8952 TNR:0.9210
+
+5fold_CNN_Transformer_THU
+sub55 AUC:0.9461 BA:0.8997 conf_matrix:[[7376  500]
+ [  17  107]] TPR:0.8629 TNR:0.9365
+
+5fold_CNN_Transformer_THU
+sub55 AUC:0.9573 BA:0.9076 conf_matrix:[[7374  502]
+ [  15  109]] TPR:0.8790 TNR:0.9363
+

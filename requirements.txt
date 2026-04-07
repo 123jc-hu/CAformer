@@ -1,0 +1,8 @@
+# Install PyTorch separately according to your CUDA / platform setup.
+numpy
+pandas
+scikit-learn
+matplotlib
+PyYAML
+openpyxl
+einops
